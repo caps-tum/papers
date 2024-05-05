@@ -1,0 +1,3 @@
+[submodule "paper-2024-arcs-arm-cmn"]
+	path = paper-2024-arcs-arm-cmn
+	url = git@github.com:caps-tum/paper-2024-arcs-arm-cmn
